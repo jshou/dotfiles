@@ -14,6 +14,9 @@ though.
 `dependencies.sh` will install libs and utils that I like. It expects
 `install.sh` to have been run already.
 
+## shiftit hammerspoon
+also do [this](https://github.com/peterklijn/hammerspoon-shiftit)
+
 ## thanks
 
 I forked [Zach Holman](http://github.com/holman)'s excellent
